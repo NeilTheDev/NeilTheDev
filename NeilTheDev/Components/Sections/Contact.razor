@@ -1,56 +1,48 @@
-﻿@* <div id="contact" class="section p-4">
-    <h2>Contact</h2>
+﻿@using System.ComponentModel.DataAnnotations;
 
-    This is the contact component
-
-</div>
-
-@code {
-
-}
-
-
-@page "/contact" *@
-
-@using System.ComponentModel.DataAnnotations;
-
-<div id="contact" class="section container py-5">
+<div id="contact" class="section container py-5" style="margin-bottom: 0px !important">
     <h2 class="mb-4 border-bottom pb-2">Contact Me</h2>
 
-        <div class="row justify-content-start">
-            <div class="col-12 col-sm-10 col-md-8 col-lg-6 col-xl-5 col-xxl-4">
+        <div class="card mb-4 shadow-sm">
+            <div class="card-body">
 
-                <EditForm Model="@contactModel" OnValidSubmit="@HandleValidSubmit">
-                    <DataAnnotationsValidator />
-                    <ValidationSummary class="alert alert-danger" />
+                <div class="row justify-content-start">
+                    <div class="col-12 col-sm-10 col-md-8 col-lg-6 col-xl-5 col-xxl-4">
 
-                    <div class="mb-3">
-                        <label class="form-label">Name</label>
-                        <InputText class="form-control" @bind-Value="contactModel.Name" />
-                        <ValidationMessage For="@(() => contactModel.Name)" class="text-danger" />
+                        <EditForm Model="@contactModel" OnValidSubmit="@HandleValidSubmit">
+                            <DataAnnotationsValidator />
+                            <ValidationSummary class="alert alert-danger" />
+
+                            <div class="mb-3">
+                                <label class="form-label">Name</label>
+                                <InputText class="form-control" @bind-Value="contactModel.Name" />
+                                <ValidationMessage For="@(() => contactModel.Name)" class="text-danger" />
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label">Email</label>
+                                <InputText class="form-control" @bind-Value="contactModel.Email" />
+                                <ValidationMessage For="@(() => contactModel.Email)" class="text-danger" />
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label">Message</label>
+                                <InputTextArea class="form-control" rows="5" @bind-Value="contactModel.Message" />
+                                <ValidationMessage For="@(() => contactModel.Message)" class="text-danger" />
+                            </div>
+
+                            <button class="btn btn-primary px-4" type="submit">Send</button>
+
+                            @if (formSubmitted)
+                            {
+                                <div class="alert alert-success mt-3">
+                                    Your message has been sent!
+                                </div>
+                            }
+                        </EditForm>
+
                     </div>
-
-                    <div class="mb-3">
-                        <label class="form-label">Email</label>
-                        <InputText class="form-control" @bind-Value="contactModel.Email" />
-                        <ValidationMessage For="@(() => contactModel.Email)" class="text-danger" />
-                    </div>
-
-                    <div class="mb-3">
-                        <label class="form-label">Message</label>
-                        <InputTextArea class="form-control" rows="5" @bind-Value="contactModel.Message" />
-                        <ValidationMessage For="@(() => contactModel.Message)" class="text-danger" />
-                    </div>
-
-                    <button class="btn btn-primary px-4" type="submit">Send</button>
-
-                    @if (formSubmitted)
-                    {
-                        <div class="alert alert-success mt-3">
-                            Your message has been sent!
-                        </div>
-                    }
-                </EditForm>
+                </div>
 
             </div>
         </div>

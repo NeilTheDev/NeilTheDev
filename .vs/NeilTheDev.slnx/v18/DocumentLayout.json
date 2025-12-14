@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\My Projects\\Personal Projects\\NeilTheDev\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|c:\\my projects\\personal projects\\neilthedev\\neilthedev\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|solutionrelative:neilthedev\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|c:\\my projects\\personal projects\\neilthedev\\neilthedev\\components\\sections\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|solutionrelative:neilthedev\\components\\sections\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|c:\\my projects\\personal projects\\neilthedev\\neilthedev\\components\\pages\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|solutionrelative:neilthedev\\components\\pages\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|c:\\my projects\\personal projects\\neilthedev\\neilthedev\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|solutionrelative:neilthedev\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|c:\\my projects\\personal projects\\neilthedev\\neilthedev\\components\\sections\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|solutionrelative:neilthedev\\components\\sections\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|c:\\my projects\\personal projects\\neilthedev\\neilthedev\\components\\sections\\interests.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|solutionrelative:neilthedev\\components\\sections\\interests.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|c:\\my projects\\personal projects\\neilthedev\\neilthedev\\components\\sections\\skills.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|solutionrelative:neilthedev\\components\\sections\\skills.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|c:\\my projects\\personal projects\\neilthedev\\neilthedev\\components\\sections\\projects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|solutionrelative:neilthedev\\components\\sections\\projects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|c:\\my projects\\personal projects\\neilthedev\\neilthedev\\components\\sections\\experience.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|solutionrelative:neilthedev\\components\\sections\\experience.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|c:\\my projects\\personal projects\\neilthedev\\neilthedev\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|solutionrelative:neilthedev\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|c:\\my projects\\personal projects\\neilthedev\\neilthedev\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|solutionrelative:neilthedev\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|c:\\my projects\\personal projects\\neilthedev\\neilthedev\\components\\sections\\education.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|solutionrelative:neilthedev\\components\\sections\\education.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|c:\\my projects\\personal projects\\neilthedev\\neilthedev\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2FCDA158-3269-D13B-564F-91C7C2F1F98A}|NeilTheDev\\NeilTheDev.csproj|solutionrelative:neilthedev\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,8 +53,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 235,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 202,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +62,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "app.css",
-              "DocumentMoniker": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\wwwroot\\app.css",
-              "RelativeDocumentMoniker": "NeilTheDev\\wwwroot\\app.css",
-              "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\wwwroot\\app.css",
-              "RelativeToolTip": "NeilTheDev\\wwwroot\\app.css",
-              "ViewState": "AgIAAN4AAAAAAAAAAAAiwAIBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-13T12:22:49.527Z",
+              "DocumentIndex": 3,
+              "Title": "Interests.razor",
+              "DocumentMoniker": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Sections\\Interests.razor",
+              "RelativeDocumentMoniker": "NeilTheDev\\Components\\Sections\\Interests.razor",
+              "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Sections\\Interests.razor",
+              "RelativeToolTip": "NeilTheDev\\Components\\Sections\\Interests.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T08:46:19.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "NeilTheDev\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "NeilTheDev\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Projects.razor",
+              "DocumentMoniker": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Sections\\Projects.razor",
+              "RelativeDocumentMoniker": "NeilTheDev\\Components\\Sections\\Projects.razor",
+              "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Sections\\Projects.razor",
+              "RelativeToolTip": "NeilTheDev\\Components\\Sections\\Projects.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T12:19:38.849Z",
+              "WhenOpened": "2025-12-14T08:13:37.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NavMenu.razor.css",
-              "DocumentMoniker": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Layout\\NavMenu.razor.css",
-              "RelativeDocumentMoniker": "NeilTheDev\\Components\\Layout\\NavMenu.razor.css",
-              "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Layout\\NavMenu.razor.css",
-              "RelativeToolTip": "NeilTheDev\\Components\\Layout\\NavMenu.razor.css",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-13T12:19:37.238Z",
+              "Title": "About.razor",
+              "DocumentMoniker": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Sections\\About.razor",
+              "RelativeDocumentMoniker": "NeilTheDev\\Components\\Sections\\About.razor",
+              "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Sections\\About.razor",
+              "RelativeToolTip": "NeilTheDev\\Components\\Sections\\About.razor",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T08:04:58.723Z",
               "EditorCaption": ""
             },
             {
@@ -79,9 +107,105 @@
               "RelativeDocumentMoniker": "NeilTheDev\\Components\\Pages\\Footer.razor",
               "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Pages\\Footer.razor",
               "RelativeToolTip": "NeilTheDev\\Components\\Pages\\Footer.razor",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-13T12:16:33.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "NeilTheDev\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "NeilTheDev\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T12:19:38.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "NeilTheDev\\wwwroot\\app.css",
+              "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\wwwroot\\app.css",
+              "RelativeToolTip": "NeilTheDev\\wwwroot\\app.css",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-13T12:22:49.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Education.razor",
+              "DocumentMoniker": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Sections\\Education.razor",
+              "RelativeDocumentMoniker": "NeilTheDev\\Components\\Sections\\Education.razor",
+              "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Sections\\Education.razor",
+              "RelativeToolTip": "NeilTheDev\\Components\\Sections\\Education.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T22:59:18.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "NeilTheDev\\Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "NeilTheDev\\Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-13T12:19:37.238Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.razor",
+              "DocumentMoniker": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Sections\\Contact.razor",
+              "RelativeDocumentMoniker": "NeilTheDev\\Components\\Sections\\Contact.razor",
+              "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Sections\\Contact.razor",
+              "RelativeToolTip": "NeilTheDev\\Components\\Sections\\Contact.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T08:48:27.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Skills.razor",
+              "DocumentMoniker": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Sections\\Skills.razor",
+              "RelativeDocumentMoniker": "NeilTheDev\\Components\\Sections\\Skills.razor",
+              "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Sections\\Skills.razor",
+              "RelativeToolTip": "NeilTheDev\\Components\\Sections\\Skills.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T08:39:07.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Experience.razor",
+              "DocumentMoniker": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Sections\\Experience.razor",
+              "RelativeDocumentMoniker": "NeilTheDev\\Components\\Sections\\Experience.razor",
+              "ToolTip": "C:\\My Projects\\Personal Projects\\NeilTheDev\\NeilTheDev\\Components\\Sections\\Experience.razor",
+              "RelativeToolTip": "NeilTheDev\\Components\\Sections\\Experience.razor",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T07:51:43.171Z",
               "EditorCaption": ""
             }
           ]
